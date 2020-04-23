@@ -1,10 +1,4 @@
-//
-//  PostCell.swift
-//  Parstagram
-//
-//  Created by Kevin Pham on 3/7/19.
-//  Copyright © 2019 Kevin Pham. All rights reserved.
-//
+
 
 import UIKit
 

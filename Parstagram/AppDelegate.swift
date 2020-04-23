@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Parstagram
-//
-//  Created by Kevin Pham on 3/4/19.
-//  Copyright © 2019 Kevin Pham. All rights reserved.
-//
 
 import UIKit
 import Parse
